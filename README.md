@@ -1,6 +1,5 @@
-👋 Oi, sou Adriano Pedrosa!
-Técnico em Informática e estudante de Ciência da Computação na Universidade Federal do Amapá.
-minhas tecnologia preferidas são python e django.
+👋 Hey guys, I am Adriano Pedrosa!
+Python Software Developer.
 
 
 <!---
